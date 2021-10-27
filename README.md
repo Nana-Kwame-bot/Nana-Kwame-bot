@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nana-Kwame-bot
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Dart and FLutter
-- 💞️ I’m looking to collaborate on anything Flutter UI related
+- 💞️ I’m looking to collaborate on anything Flutter related
 - 📫 How to reach me aduhenry9@gmail.com
 
 <!---
