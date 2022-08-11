@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nana-Kwame-bot
+- 👋 Hi, I’m Nana Kwame
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Dart and FLutter
 - 💞️ I’m looking to collaborate on anything Flutter related
